@@ -1,0 +1,15 @@
+Package: telegramme
+Title: Helpers for handling telegram chats
+Version: 0.0.0.9000
+Date: 2018-12-08
+Authors@R: 
+    person(given = "Peter",
+           family = "Meissner",
+           role = c("aut", "cre"),
+           email = "retep.meissner@gmail.com")
+Author: Peter Meissner
+Description: What the package does (one paragraph).
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
